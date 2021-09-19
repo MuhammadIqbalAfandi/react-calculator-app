@@ -1,0 +1,23 @@
+.App {
+  max-width: 640px;
+  padding: 1.25rem;
+  background-color: rgba(249, 250, 251, 1);
+  border-radius: 0.375rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+.App-inputs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+.App-operators {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 1rem;
+  margin-top: 3rem;
+}
+.App hr {
+  margin-top: 3rem;
+}
