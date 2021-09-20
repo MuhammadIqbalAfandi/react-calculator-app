@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Try Out!
 
-- `yarn` and `yarn start`
+- `yarn` and `yarn run start`
