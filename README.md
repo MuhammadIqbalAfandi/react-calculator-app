@@ -1,6 +1,6 @@
 # React Calculator App
 
-![ScreenShot App](public/images/sc_1.png)
+![ScreenShot App](./sc_1.png)
 
 ## Getting Started with Create React App
 
